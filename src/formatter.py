@@ -10,7 +10,7 @@ from src.schema import Audio, Document, Image, Reasoning, Role, Text, Video
 
 DOCUMENT_LIMIT = 0
 
-log = logging.getLogger("formator")
+log = logging.getLogger("formatter")
 log.setLevel(logging.DEBUG)
 log.addHandler(logging.StreamHandler())
 

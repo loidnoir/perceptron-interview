@@ -101,7 +101,7 @@ python src/generator.py \
 Formatting script takes the generated thread analysis and converts it to our data structures.
 
 ```bash
-python src/formator.py \
+python src/formatter.py \
     .generations/thread-XXXXXXXX-XXXXXX.csv \
     samples/
 ```
