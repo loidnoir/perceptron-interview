@@ -1,0 +1,8 @@
+.vscode
+.data/*
+.generations/*
+.processed/*
+samples/*
+.env
+.DS_Store
+__pycache__/
